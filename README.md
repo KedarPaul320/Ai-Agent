@@ -164,13 +164,15 @@ The application is designed for both data analysts and business users who need t
 ### Interactive Filtering
 ![Filtering Interface](Images/Filter1.png)
 ![alt text](Images/Filter2.png)
+
 *The sidebar filtering interface showing date, numeric, and categorical filters*
 
 ### Chart Visualization Examples
 ![Bar Chart](<Images/Bar Chart.png>)
+*Example of a bar plot showing distribution and outliers for selected variables*
 
-
-![Scatter Plot](Images/Scattershot.png)
+![Scatter Chart](Images/Scattershot.png)
+*Example of a scatter plot visualizing relationships between two variables, with interactive features such as zoom, pan, and hover details.*
 
 
 ### Data Analysis Features
